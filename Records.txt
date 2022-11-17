@@ -5,4 +5,7 @@ khher
 pasta
 chicken
 
+beans
+pizza
+
 thank u.
